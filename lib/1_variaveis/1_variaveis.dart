@@ -1,5 +1,3 @@
-import 'dart:html';
-
 void main() {
   
   // Inteiros 1, 2, 3, 9000 ...

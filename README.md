@@ -1,3 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-# academiaDoFlutter
+# Projeto Academia do Flutter
+
+## Projeto criado no intuito de aprender e expandir o conhecimento sobre o framework Flutter com a linguagem Dart.
+## Sendo desenvolvido pelo curso de flutter da Academia do Flutter, professor Rodrigo Rahman
